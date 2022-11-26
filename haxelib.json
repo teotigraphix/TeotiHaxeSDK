@@ -1,0 +1,28 @@
+{
+  "name": "teoti-haxe-sdk",
+  "url": "https://github.com/teotigraphix/teoti-haxe-sdk/",
+  "license": "MIT",
+  "tags": [
+    "haxe",
+    "audio",
+    "app",
+    "tools",
+    "api",
+    "reusable",
+    "utilities"
+  ],
+  "description": "The SDK encapsulates application dev repeated elements.",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "Initial release.",
+  "contributors": [
+    "TeotiGraphix"
+  ],
+  "dependencies": {
+    "hxargs": "",
+    "actuate": "",
+    "openfl": "",
+    "feathersui": ""
+  },
+  "main": "tools.Run"
+}
